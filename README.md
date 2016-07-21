@@ -1,5 +1,5 @@
-# TwitterMaterialPlugins
+# GithubMaterialPlugins
 
-Twitter Material Plugins - Muhammed Zaim
+Github Material Plugins - Muhammed Zaim
 
-![Twitter Material Plugins - Muhammed Zaim](https://raw.githubusercontent.com/muhammedzaimtr/TwitterMaterialPlugins/master/ss.png)
+![Github Material Plugins - Muhammed Zaim](https://raw.githubusercontent.com/muhammedzaimtr/GithubMaterialPlugins/master/ss.png)
