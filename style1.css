@@ -1,0 +1,29 @@
+/* Muhammed Zaim
+ 20 Temmuz 2016
+ http://muhammedzaim.com
+ info@muhammedzaim.com */
+
+
+* {
+    border: none !important;
+    border-radius: 0 !important;
+    text-shadow: none !important;
+}
+
+.header , .flush, .exploregrid-item, ul.clearfix, .site-header , .setup-info-module, .steps{
+    box-shadow: 2px 2px 25px #ccc !important;
+}
+
+.repo-list-item{
+    border-bottom: 1px solid #f5f5f5 !important;
+}
+
+.repo-list-item:hover, .watch_started:hover, .mini-repo-list-item:hover, .public:hover{
+    background-color: #f5f5f5 !important;
+}
+
+.btn{
+    background-image: none !important;
+    background-color: #f5f5f5;
+    box-shadow: 1px 1px 15px #ccc !important;
+}
