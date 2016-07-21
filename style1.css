@@ -10,7 +10,7 @@
     text-shadow: none !important;
 }
 
-.header , .flush, .exploregrid-item, ul.clearfix, .site-header , .setup-info-module, .steps{
+.header , .flush, .exploregrid-item, ul.clearfix, .site-header , .setup-info-module, .steps, .instapaper_body{
     box-shadow: 2px 2px 25px #ccc !important;
 }
 
